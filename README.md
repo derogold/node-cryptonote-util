@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/34389545/35821974-62e0e25c-0a70-11e8-87dd-2cfffeb6ed47.png)
+![image](https://camo.githubusercontent.com/57bf0cb2abefcc5ee8b249a36eeabe62bb775640a8500a0fbdb57d327ea7fba2/68747470733a2f2f692e696d6775722e636f6d2f34466c765241742e706e67 witdh=100)
 
 #### Master Build Status
 [![Build Status](https://github.com/turtlecoin/node-cryptonote-util/workflows/CI%20Build%20Tests/badge.svg?branch=master)](https://github.com/turtlecoin/node-cryptonote-util/actions)
