@@ -1,5 +1,3 @@
-![](https://camo.githubusercontent.com/57bf0cb2abefcc5ee8b249a36eeabe62bb775640a8500a0fbdb57d327ea7fba2/68747470733a2f2f692e696d6775722e636f6d2f34466c765241742e706e67.png | witdh=100)
-
 # Node-Cryptonote-Util
 
 **Note:** We build prebuilds of the Node.js native addon module binaries that are included for distribution with the NPM
